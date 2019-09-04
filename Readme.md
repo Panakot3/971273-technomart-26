@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Павел Поздняков](https://up.htmlacademy.ru/htmlcss/26/user/971273).
-* Наставник: `Неизвестно`.
+* Наставник: [Дарья Глаголь](https://htmlacademy.ru/profile/dariaglagol).
 
 ---
 
